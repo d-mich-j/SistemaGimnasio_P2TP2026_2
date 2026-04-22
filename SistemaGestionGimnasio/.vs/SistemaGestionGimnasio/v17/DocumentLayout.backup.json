@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos\\documents\\jmdm\\tp_2026_2_p2\\codigo\\sistemagestiongimnasio\\modelo\\entrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|solutionrelative:modelo\\entrenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos\\documents\\jmdm\\tp_2026_2_p2\\codigo\\sistemagestiongimnasio\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|solutionrelative:modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos\\documents\\jmdm\\tp_2026_2_p2\\codigo\\sistemagestiongimnasio\\modelo\\rutina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|solutionrelative:modelo\\rutina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos\\documents\\jmdm\\tp_2026_2_p2\\codigo\\sistemagestiongimnasio\\gestores\\gestorentrenadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|solutionrelative:gestores\\gestorentrenadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8642715D-FC5A-4563-B6A3-7ADF95A22F23}|..\\SistemaGestionGimnasio.Test\\SistemaGestionGimnasio.Test.csproj|c:\\users\\alumnos\\documents\\jmdm\\tp_2026_2_p2\\codigo\\sistemagestiongimnasio.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos\\documents\\jmdm\\tp_2026_2_p2\\codigo\\sistemagestiongimnasio\\servicios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|solutionrelative:servicios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos\\documents\\jmdm\\tp_2026_2_p2\\codigo\\sistemagestiongimnasio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8642715D-FC5A-4563-B6A3-7ADF95A22F23}|..\\SistemaGestionGimnasio.Test\\SistemaGestionGimnasio.Test.csproj|c:\\users\\alumnos\\documents\\jmdm\\tp_2026_2_p2\\codigo\\sistemagestiongimnasio.test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos\\documents\\jmdm\\tp_2026_2_p2\\codigo\\sistemagestiongimnasio\\modelo\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|solutionrelative:modelo\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Servicios\\AsignadorRutinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Servicios\\AsignadorRutinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos\\documents\\jmdm\\tp_2026_2_p2\\codigo\\sistemagestiongimnasio\\gestores\\gestorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|solutionrelative:gestores\\gestorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|c:\\users\\alumnos\\documents\\jmdm\\tp_2026_2_p2\\codigo\\sistemagestiongimnasio\\gestores\\gestorrutinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214D10D1-944B-4DB7-A409-9D91AE7364D6}|SistemaGestionGimnasio.csproj|solutionrelative:gestores\\gestorrutinas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Servicios\\Class1.cs",
+              "RelativeDocumentMoniker": "Servicios\\Class1.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Servicios\\Class1.cs",
+              "RelativeToolTip": "Servicios\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:55:20.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio.Test\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionGimnasio.Test\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio.Test\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\SistemaGestionGimnasio.Test\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:52:10.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio.Test\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionGimnasio.Test\\Test1.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio.Test\\Test1.cs",
+              "RelativeToolTip": "..\\SistemaGestionGimnasio.Test\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:42:26.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:13:43.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entrenador.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Modelo\\Entrenador.cs",
+              "RelativeDocumentMoniker": "Modelo\\Entrenador.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Modelo\\Entrenador.cs",
+              "RelativeToolTip": "Modelo\\Entrenador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:06:26.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestorUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Gestores\\GestorUsuarios.cs",
+              "RelativeDocumentMoniker": "Gestores\\GestorUsuarios.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Gestores\\GestorUsuarios.cs",
+              "RelativeToolTip": "Gestores\\GestorUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:23:01.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestorEntrenadores.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Gestores\\GestorEntrenadores.cs",
+              "RelativeDocumentMoniker": "Gestores\\GestorEntrenadores.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Gestores\\GestorEntrenadores.cs",
+              "RelativeToolTip": "Gestores\\GestorEntrenadores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:18:54.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GestorRutinas.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Gestores\\GestorRutinas.cs",
+              "RelativeDocumentMoniker": "Gestores\\GestorRutinas.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Gestores\\GestorRutinas.cs",
+              "RelativeToolTip": "Gestores\\GestorRutinas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:13:15.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Modelo\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "Modelo\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Modelo\\Ejercicio.cs",
+              "RelativeToolTip": "Modelo\\Ejercicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:03:40.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rutina.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Modelo\\Rutina.cs",
+              "RelativeDocumentMoniker": "Modelo\\Rutina.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Modelo\\Rutina.cs",
+              "RelativeToolTip": "Modelo\\Rutina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:58:23.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Modelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Modelo\\Usuario.cs",
+              "RelativeToolTip": "Modelo\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:52:07.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AsignadorRutinas.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Servicios\\AsignadorRutinas.cs",
+              "RelativeDocumentMoniker": "Servicios\\AsignadorRutinas.cs",
+              "ToolTip": "C:\\Users\\Alumnos\\Documents\\JMDM\\TP_2026_2_P2\\Codigo\\SistemaGestionGimnasio\\Servicios\\AsignadorRutinas.cs",
+              "RelativeToolTip": "Servicios\\AsignadorRutinas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:27:07.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
