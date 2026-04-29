@@ -13,6 +13,8 @@ namespace SistemaGestionGimnasio.Modelo
         {
             Nombre = nombre;
             Duracion = duracion;
+            ejercicios = new List<Ejercicio>();
+            
         }
 
         public void AgregarEjercicio(Ejercicio ejercicio) 
