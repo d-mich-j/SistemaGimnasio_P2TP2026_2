@@ -1,10 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace SistemaGestionGimnasio.Servicios {
-    internal class Class1 {
+using SistemaGestionGimnasio.Modelo;
+
+namespace SistemaGestionGimnasio.Servicios
+{
+    public class AsignadorRutinas
+    {
+        public void AsignarRutinaaUsuario(Usuario usuario, Rutina rutina)
+        {
+            usuario.AsignarRutina(rutina);
+        }
+
+        public void AsignarUsuarioAEntrenador(Usuario usuario, Entrenador entrenador)
+        {
+            entrenador.AgregarUsuario(usuario);
+        }
     }
 }
