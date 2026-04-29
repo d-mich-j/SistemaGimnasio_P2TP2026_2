@@ -1,5 +1,5 @@
 ﻿
-namespace SistemaGestionGimnasio.Modelos
+namespace SistemaGestionGimnasio.Modelo
 {
     public  class Ejercicio
     {
