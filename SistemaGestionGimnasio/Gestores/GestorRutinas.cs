@@ -1,8 +1,10 @@
-﻿using SistemaGestionGimnasio.Modelo; 
-namespace SistemaGestionGimnasio.Gestores {
+using SistemaGestionGimnasio.Modelos;
+namespace SistemaGestionGimnasio.Gestores
+{
     public class GestorRutinas
     {
         private List<Rutina> rutinas;
+
         public GestorRutinas()
         {
             rutinas = new List<Rutina>();
@@ -13,11 +15,9 @@ namespace SistemaGestionGimnasio.Gestores {
             rutinas.Add(new Rutina(nombre, duracion));
         }
 
-        public BuscarRutina(string nombre) 
+        public Rutina BuscarRutina(string nombre)
         {
             return rutinas.FirstOrDefault(r => r.Nombre == nombre);
         }
-
     }
-    
-}
+}﻿
