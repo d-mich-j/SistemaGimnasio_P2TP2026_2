@@ -1,29 +1,44 @@
 ﻿
+using Xunit;
 using SistemaGestionGimnasio.Modelo;
-
-namespace SistemaGestionGimnasio.Test 
+using SistemaGestionGimnasio.Servicios;
+namespace SistemaGestionGimnasio.Test
 {
-    public class RutinaTests 
+    public  class AsignadorRutinaTest
+
     {
-        public void AgregarEjercicio_DebeAgregarALista() 
+        [Fact]
+        public void AsignarRutinaUsuario_DebeAsignarCorrectamente()
         {
-            [Fact]
-            //Arange
+            //Arrange 
+            Usuario usuario = new Usuario("Juan", 20, "Musculo");
+            AsignadorRutinas asignador = new AsignadorRutinas();
             Rutina rutina = new Rutina("Brazo", 120);
-            Ejercicio ejercicio1 = new Ejercicio ("Press", 4, 2, 60);
-            Ejercicio ejercicio2 = new Ejercicio("Fondo", 10, 3, 60);
-            Ejercicio ejercicio3 = new Ejercicio("Lagartijas", 15, 3, 60);
 
             //Act
-
-            rutina.AgregarEjercicio(ejercicio1);
-            rutina.AgregarEjercicio(ejercicio2);
-            rutina.AgregarEjercicio(ejercicio3);
+            asignador.AsignarRutinaaUsuario(usuario, rutina);
 
             //Assert
-            Assert.Contains("Press", rutina.ObtenerEjercicios()[0].Nombre);
-            Assert.noempty
-        } 
-    }
 
+            Assert.Equal(rutina, usuario.RutinaAsignada);
+        }
+        [Fact]
+
+        public void AsignarUsuarioAEntrenador_DebeIncluirUsuario()
+        {
+            //Arrange 
+            Usuario usuario = new Usuario("Juan", 20, "Musculo");
+            AsignadorRutinas asignador = new AsignadorRutinas();
+            Entrenador entrenador = new Entrenador("Pancho", "Musculo");
+
+            //Act
+            asignador.AsignarUsuarioAEntrenador(usuario, entrenador);
+
+
+            //Assert 
+
+            Assert.Contains(usuario, entrenador.ObtenerUsuariosAsignados());
+        }
+
+    }
 }
