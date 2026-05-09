@@ -1,4 +1,4 @@
-﻿using SistemaGestionGimnasio.Modelos;
+﻿using SistemaGestionGimnasio.Modelo;
 namespace SistemaGestionGimnasio.Gestores
 {
     public  class GestorEntrenadores
