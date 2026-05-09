@@ -6,20 +6,20 @@ namespace SistemaGestionGimnasio.Modelo
         public string Nombre { get; set; }
         public int Duracion { get; set; }
 
-        private  List<Ejercicio> ejercicios;
+        private  List<Ejercicio> _ejercicios;
 
 
         public Rutina(string nombre, int duracion) 
         {
             Nombre = nombre;
             Duracion = duracion;
-            ejercicios = new List<Ejercicio>();
+            _ejercicios = new List<Ejercicio>();
             
         }
 
         public void AgregarEjercicio(Ejercicio ejercicio) 
         {
-            ejercicios.Add(ejercicio);
+            _ejercicios.Add(ejercicio);
         }
 
         public List <Ejercicio> ObtenerEjercicios() {
