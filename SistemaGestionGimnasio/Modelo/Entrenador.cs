@@ -5,7 +5,7 @@ namespace SistemaGestionGimnasio.Modelo
     {
         public string Nombre {  get; set; }
         public string Especialidad { get; set; }
-        private List<Usuario> usuariosAsignados { get; set; }
+        private List<Usuario> _usuariosAsignados { get; set; }
         public Entrenador(string nombre, string especialidad) 
 
        
