@@ -3,7 +3,7 @@ namespace SistemaGestionGimnasio.Gestores
 {
     public class GestorUsuarios
     {
-       List<Usuario> usuarios;
+        private List<Usuario> _usuarios;
         public GestorUsuarios()
         {
             usuarios = new List<Usuario>();
